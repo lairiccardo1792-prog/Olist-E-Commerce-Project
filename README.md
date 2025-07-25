@@ -46,6 +46,7 @@ Visual representation of the Olist dataset's database schema, showing tables and
 -   Jupyter Notebook
 -   Tableau Public
 -   GitHub
+-   Lucidchart
 
 ## Author
 
