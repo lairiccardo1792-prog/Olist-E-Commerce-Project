@@ -41,7 +41,7 @@ Visual representation of the Olist dataset's database schema, showing tables and
 
 ## Technologies Used
 
--   Python (Pandas, Numpy)
+-   Python (Pandas, Numpy, Seaborn, Matplotlib, SciPy, Statsmodels, Os)
 -   SQL
 -   Jupyter Notebook
 -   Tableau Public
