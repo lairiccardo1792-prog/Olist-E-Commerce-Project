@@ -8,7 +8,6 @@ Olist E-commerce Analysis: Strategic Insights This project delves into Olist's p
 -   **`scripts/`**: Python script for data cleaning (`CleanindData.py`).
 -   **`diagrams/`**: Entity-Relationship Diagram (ERD).
 -   **`dashboard_screenshots/`**: Screenshots of the Tableau dashboard.
--   **`tableau_workbook/`**: Tableau workbook file (`.twbx`).
 
 ## Key Deliverables
 
