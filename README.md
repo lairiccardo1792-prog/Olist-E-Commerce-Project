@@ -36,7 +36,7 @@ Explore the full dashboard on Tableau Public:
 
 Visual representation of the Olist dataset's database schema, showing tables and relationships for data understanding and efficient querying.
 
-![Olist ERD](diagrams/ERD_PROJECT1.png)
+![Olist ERD](Diagram-EDR/ERD_PROJECT1.png)
 
 ## Technologies Used
 
